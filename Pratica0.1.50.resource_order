@@ -19,6 +19,7 @@
     {"name":"inventory","order":2,"path":"folders/Sprites/inventory.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"grupo1","order":3,"path":"folders/Sprites/grupo1.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_personagem_arco_baixo","order":20,"path":"sprites/spr_personagem_arco_baixo/spr_personagem_arco_baixo.yy",},
