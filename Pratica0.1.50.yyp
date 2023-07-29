@@ -11,7 +11,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -33,13 +33,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"inventory","folderPath":"folders/Sprites/inventory.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"grupo1","folderPath":"folders/Sprites/grupo1.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"spr_personagem_arco_baixo","path":"sprites/spr_personagem_arco_baixo/spr_personagem_arco_baixo.yy",},},
@@ -55,6 +54,7 @@
     {"id":{"name":"spr_personagem_atacando_esquerda","path":"sprites/spr_personagem_atacando_esquerda/spr_personagem_atacando_esquerda.yy",},},
     {"id":{"name":"par_gameplay","path":"objects/par_gameplay/par_gameplay.yy",},},
     {"id":{"name":"spr_tile_pedra_1","path":"sprites/spr_tile_pedra_1/spr_tile_pedra_1.yy",},},
+    {"id":{"name":"scripts_checkpoint","path":"scripts/scripts_checkpoint/scripts_checkpoint.yy",},},
     {"id":{"name":"scripts_functions","path":"scripts/scripts_functions/scripts_functions.yy",},},
     {"id":{"name":"ts_wall","path":"tilesets/ts_wall/ts_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -116,6 +116,7 @@
     {"id":{"name":"spr_personagem_correndo_esquerda","path":"sprites/spr_personagem_correndo_esquerda/spr_personagem_correndo_esquerda.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
+    {"id":{"name":"obj_checkpoint","path":"objects/obj_checkpoint/obj_checkpoint.yy",},},
     {"id":{"name":"spr_hud_exp_barra","path":"sprites/spr_hud_exp_barra/spr_hud_exp_barra.yy",},},
     {"id":{"name":"spr_inventario","path":"sprites/spr_inventario/spr_inventario.yy",},},
     {"id":{"name":"spr_personagem_arco_cima","path":"sprites/spr_personagem_arco_cima/spr_personagem_arco_cima.yy",},},
@@ -135,6 +136,7 @@
     {"id":{"name":"spr_op_selected","path":"sprites/spr_op_selected/spr_op_selected.yy",},},
     {"id":{"name":"ts_rock","path":"tilesets/ts_rock/ts_rock.yy",},},
     {"id":{"name":"fnt_hit","path":"fonts/fnt_hit/fnt_hit.yy",},},
+    {"id":{"name":"Checkpoint","path":"sprites/Checkpoint/Checkpoint.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "RoomOrderNodes": [

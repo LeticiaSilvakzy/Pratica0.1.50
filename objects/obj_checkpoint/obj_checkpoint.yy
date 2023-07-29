@@ -1,20 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_slime",
+  "name": "obj_checkpoint",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "gameplay",
-    "path": "folders/Objects/gameplay.yy",
+    "name": "hud",
+    "path": "folders/Objects/hud.yy",
   },
   "parentObjectId": {
-    "name": "par_enemies",
-    "path": "objects/par_enemies/par_enemies.yy",
+    "name": "par_npc",
+    "path": "objects/par_npc/par_npc.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_slime_andando_1",
-    "path": "sprites/spr_slime_andando_1/spr_slime_andando_1.yy",
+    "name": "Checkpoint",
+    "path": "sprites/Checkpoint/Checkpoint.yy",
   },
   "spriteMaskId": null,
   "visible": true,

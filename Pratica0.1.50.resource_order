@@ -19,7 +19,6 @@
     {"name":"inventory","order":2,"path":"folders/Sprites/inventory.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"grupo1","order":3,"path":"folders/Sprites/grupo1.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_personagem_arco_baixo","order":20,"path":"sprites/spr_personagem_arco_baixo/spr_personagem_arco_baixo.yy",},
@@ -35,6 +34,7 @@
     {"name":"spr_personagem_atacando_esquerda","order":30,"path":"sprites/spr_personagem_atacando_esquerda/spr_personagem_atacando_esquerda.yy",},
     {"name":"par_gameplay","order":16,"path":"objects/par_gameplay/par_gameplay.yy",},
     {"name":"spr_tile_pedra_1","order":42,"path":"sprites/spr_tile_pedra_1/spr_tile_pedra_1.yy",},
+    {"name":"scripts_checkpoint","order":5,"path":"scripts/scripts_checkpoint/scripts_checkpoint.yy",},
     {"name":"scripts_functions","order":1,"path":"scripts/scripts_functions/scripts_functions.yy",},
     {"name":"ts_wall","order":2,"path":"tilesets/ts_wall/ts_wall.yy",},
     {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
@@ -90,6 +90,7 @@
     {"name":"spr_personagem_correndo_esquerda","order":35,"path":"sprites/spr_personagem_correndo_esquerda/spr_personagem_correndo_esquerda.yy",},
     {"name":"obj_tree","order":15,"path":"objects/obj_tree/obj_tree.yy",},
     {"name":"spr_arvore","order":11,"path":"sprites/spr_arvore/spr_arvore.yy",},
+    {"name":"obj_checkpoint","order":5,"path":"objects/obj_checkpoint/obj_checkpoint.yy",},
     {"name":"spr_hud_exp_barra","order":16,"path":"sprites/spr_hud_exp_barra/spr_hud_exp_barra.yy",},
     {"name":"spr_personagem_arco_cima","order":21,"path":"sprites/spr_personagem_arco_cima/spr_personagem_arco_cima.yy",},
     {"name":"spr_personagem_parado_baixo","order":36,"path":"sprites/spr_personagem_parado_baixo/spr_personagem_parado_baixo.yy",},
@@ -106,5 +107,6 @@
     {"name":"spr_op_selected","order":1,"path":"sprites/spr_op_selected/spr_op_selected.yy",},
     {"name":"ts_rock","order":1,"path":"tilesets/ts_rock/ts_rock.yy",},
     {"name":"fnt_hit","order":1,"path":"fonts/fnt_hit/fnt_hit.yy",},
+    {"name":"Checkpoint","order":3,"path":"sprites/Checkpoint/Checkpoint.yy",},
   ],
 }

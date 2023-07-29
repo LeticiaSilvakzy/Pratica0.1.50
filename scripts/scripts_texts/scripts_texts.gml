@@ -45,6 +45,26 @@ function scr_dialogs()
 			case "Third Answer":
 				ds_grid_add_text("All options end this dialogue", "Npc Test Options", 1);
 			break;
+			
+		  case "Save":
+			ds_grid_add_text("Deseja salvar ?", "Save", 1);
+			add_option("Sim","Salvar_Sim");
+			add_option("Não","Salvar_Não");
+			break;
+			
+			case "Salvar_Não":
+			ds_grid_add_text("Deseja sair ?", "Save",1);
+			break;
+			
+			
+		   case "Salvar_Sim":
+		    obj_menu.alarm[0] = 1;
+		    ds_grid_add_text("Seu jogo foi salvo !", "Save", 1);
+		    break;
+			
+		
+			
+		
 	}
 }
 

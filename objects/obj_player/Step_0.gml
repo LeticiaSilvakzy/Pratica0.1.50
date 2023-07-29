@@ -31,3 +31,7 @@ if distance_to_object(par_npc) <= 10
 		_dialogue.npc_name = _npc.name_npc;
 	}
 }
+
+
+
+
